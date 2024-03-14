@@ -1,0 +1,15 @@
+BitBucket
+
+-------------------------obsolete----------------
+created by and contactid..
+modified by--- optional
+Data Type in class could create not null in DB automatically----
+Entity framework configuration.cs & seed----
+
+--------------------new -------------------------
+Duplicate user name exists ,
+each email/user belongs to admin user by createdby field
+
+deploy angular
+chk-in angular , .net into cloud
+finish permssion (updateing permission in pop-up)
